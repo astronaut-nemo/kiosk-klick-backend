@@ -6,9 +6,8 @@
 ## Project Description
 This project is the backend component of my Moringa School Phase 2 Project: Kiosk Klick.
 
-Kiosk Klick is an e-commerce application that allows users to browse local kiosks from the comfort of home. The backend component contains data for each kiosk and its inventory, and the cart.
+Kiosk Klick is an e-commerce application. The backend component contains data for each kiosk and its inventory, and the cart.
 
-- The frontend component is found here: [Kiosk Klick Frontend](https://github.com/astronaut-nemo/kiosk-klick-frontend).
 - The deployed application is hosted here: {URL coming soon}
 
 - This server uses the json-server-template: [https://github.com/learn-co-curriculum/json-server-template](https://github.com/learn-co-curriculum/json-server-template)

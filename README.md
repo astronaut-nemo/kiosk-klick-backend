@@ -6,7 +6,7 @@
 ## Project Description
 This project is the backend component of my Moringa School Phase 2 Project: Kiosk Klick.
 
-Kiosk Klick is an e-commerce application. The backend component contains data for each kiosk and its inventory, and the cart.
+The backend component contains data for each kiosk and its inventory, and the cart.
 
 - The deployed application is hosted here: {URL coming soon}
 

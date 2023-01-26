@@ -13,7 +13,7 @@
       "id": 2,
       "name": "White House General",
       "category": "General Groceries",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/8.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/3.png",
       "location": "Huruma Junction",
       "items": ["Mattress", "Bucket", "Duster", "Toothbrush", "Matchbox", "Candle", "Eggs", "Indomie", "Cookies", "Crisps", "Juice"],
       "open": true
@@ -22,7 +22,7 @@
       "id": 3,
       "name": "Mama Angel Shop",
       "category": "Produce",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/2.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/5.png",
       "location": "Huruma Junction",
       "items": ["Bananas", "Beans", "Onions", "Skuma", "Mango", "Avocado"],
       "open": true
@@ -40,7 +40,7 @@
       "id": 5,
       "name": "Furaha Meats",
       "category": "Meats",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/4.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/8.png",
       "location": "Huruma Junction",
       "items": ["Chicken", "Beef", "Mbuzi"],
       "open": true
@@ -49,7 +49,7 @@
       "id": 6,
       "name": "Immaculate Duka",
       "category": "Produce",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/6.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/2.png",
       "location": "Huruma Junction",
       "items": [],
       "open": false
@@ -58,7 +58,7 @@
       "id": 7,
       "name": "Mama Boi Groceries",
       "category": "General Groceries",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/3.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/4.png",
       "location": "Huruma Junction",
       "items": ["Bucket", "Duster", "Toothbrush", "Matchbox","Cookies", "Juice"],
       "open": true
@@ -67,7 +67,7 @@
       "id": 8,
       "name": "Baba Sue",
       "category": "Produce",
-      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/5.png",
+      "image": "https://raw.githubusercontent.com/astronaut-nemo/kiosk-klick-backend/main/assets/vendor-images/6.png",
       "location": "Huruma Junction",
       "items": ["Bananas", "Onions", "Tomato", "Dhania", "Avocado"],
       "open": true
